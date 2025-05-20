@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = "0.0.1"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "litellm",
+    "python-dotenv",
+    "httpx",
+    "rich",
+]
+
+[tool.uv]
+package = false

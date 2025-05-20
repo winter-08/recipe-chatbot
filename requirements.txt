@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-litellm
-python-dotenv
-httpx
-rich
