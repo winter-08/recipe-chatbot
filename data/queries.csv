@@ -1,0 +1,11 @@
+query,id,allergic_to,dietary_preferences,date,typically_makes_for,skill_level,location
+What can I make with leftover roast chicken and spinach?,Q001,,omnivore,2025-05-21,self,intermediate,"London, UK"
+Need a quick vegan lunch that's high in protein.,Q002,peanuts,vegan,2025-05-20,self,beginner,"Austin, TX"
+Good date night recipes using salmon?,Q003,shellfish,pescatarian,2025-05-19,partner,intermediate,"Seattle, WA"
+Gluten-free dessert ideas for kids' birthday?,Q004,gluten,vegetarian,2025-05-18,kids party (8),intermediate,"Dublin, Ireland"
+Low-carb dinner that serves two and uses ground turkey.,Q005,,keto,2025-05-17,couple,beginner,"Chicago, IL"
+"Best comfort food for a rainy day, vegetarian friendly.",Q006,,vegetarian,2025-05-16,roommates,beginner,"Portland, OR"
+What can I bake with overripe bananas besides banana bread?,Q007,walnuts,omnivore,2025-05-15,office (12),advanced,"Sydney, Australia"
+"Show‑stopping dessert for dinner party, intermediate baker.",Q008,,omnivore,2025-05-14,friends (6),advanced,"New York, NY"
+Easy one-pot meals I can prep in advance.,Q009,soy,omnivore,2025-05-13,family of 4,beginner,"Toronto, Canada"
+Spicy soup recipes for cold weather.,Q010,,omnivore,2025-05-12,spouse,intermediate,"Edinburgh, UK"
