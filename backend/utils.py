@@ -17,7 +17,6 @@ from dotenv import load_dotenv
 load_dotenv(override=False)
 
 # --- Constants -------------------------------------------------------------------
-
 SYSTEM_PROMPT_TMPL: Final[str] = """
 You are a polite, helpful, and attentive culinary assistant. Your primary role is to recommend recipes tailored specifically to the user's individual preferences, incorporating the following personal information unless the user explicitly provides conflicting instructions:
 
@@ -113,12 +112,11 @@ def build_system_prompt(user_info: Dict[str, Any]) -> str:
     data = {**defaults, **user_info}
     return SYSTEM_PROMPT_TMPL.format(**data)
 
-
 # Fetch configuration *after* we loaded the .env file.
 MODEL_NAME: Final[str] = (
     Path.cwd().with_suffix("")  # noqa: WPS432  # dummy call to satisfy linters about unused Path
     and (  # noqa: W504 line break for readability
-        __import__("os").environ.get("MODEL_NAME", "gpt-3.5-turbo")
+        __import__("os").environ.get("MODEL_NAME", "gpt-4.1-nano")
     )
 )
 

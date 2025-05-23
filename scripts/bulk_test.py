@@ -34,7 +34,8 @@ DEFAULT_CSV: Path = Path("data/queries.csv")
 RESULTS_DIR: Path = Path("results")
 RESULTS_DIR.mkdir(exist_ok=True)
 
-MAX_WORKERS = 10  # For ThreadPoolExecutor
+MAX_WORKERS = 32 # For ThreadPoolExecutor
+
 
 # -----------------------------------------------------------------------------
 # Core logic
