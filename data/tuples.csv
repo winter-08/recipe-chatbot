@@ -1,0 +1,101 @@
+Cooking Approach,Persona,Dietary Requirements,Cooks For,Skill Level,Cuisine,Preparation Constraints,Scenario
+Quick & Easy,College Student,Vegan,Individual,Absolute Beginner,Mexican,Pantry Staples,Budget-Conscious
+Grilling,Busy Parent,Gluten-Free,Family-friendly,Comfortable Home Cook,Mediterranean,Quick Meals,Health & Wellness Goals
+Instant Pot,Health Enthusiast,High-Protein,Meal Prep & Batch Cooking,Comfortable Home Cook,Indian,Seasonal Ingredients,Taste-Driven
+Sous-vide,Amateur Foodie,Keto,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Baking,Comfort-Food Lover,Nut-Free,Large Groups/Parties,Absolute Beginner,American Fusion & Experimental,Leisurely Cooking,Occasion-Based Cooking
+Everyday Cooking,Budget-Conscious Cook,Low-Sodium,Family-friendly,Comfortable Home Cook,Italian,Limited Gear,Eco & Ethical Considerations
+Slow Cooker,Adventure Seeker,Halal,Meal Prep & Batch Cooking,Absolute Beginner,Middle Eastern,Locally Available,Detailed Guidance
+Sautéing,College Student,Dairy-Free,Individual,Comfortable Home Cook,Japanese,Quick Meals,Quick Summaries
+Gourmet & Intricate,Health Enthusiast,Paleo,Couple/Date Night,Culinary Expert,Thai,Fully Equipped Kitchen,Splurge-Worthy
+Minimal/No-Cook,Busy Parent,Vegetarian,Family-friendly,Absolute Beginner,Korean,Pantry Staples,Budget-Conscious
+Air Fryer,Comfort-Food Lover,Low-Sugar,Individual,Comfortable Home Cook,Southern Fusion & Experimental,Quick Meals,Taste-Driven
+Roasting,Amateur Foodie,Kosher,Large Groups/Parties,Culinary Expert,Traditional/Authentic,Seasonal Ingredients,Occasion-Based Cooking
+Quick & Easy,Adventure Seeker,Seafood-Free,Individual,Absolute Beginner,Mexican,Limited Gear,Interactive Guidance
+Steaming,Health Enthusiast,Diabetic-Friendly,Family-friendly,Comfortable Home Cook,Chinese,Locally Available,Health & Wellness Goals
+Sous-vide,Budget-Conscious Cook,Nut-Free,Couple/Date Night,Culinary Expert,Italian,Fully Equipped Kitchen,Splurge-Worthy
+Grilling,Busy Parent,Vegan,Large Groups/Parties,Comfortable Home Cook,Mediterranean,Seasonal Ingredients,Eco & Ethical Considerations
+Everyday Cooking,College Student,Egg-Free,Individual,Absolute Beginner,Japanese,Pantry Staples,Budget-Conscious
+Air Fryer,Health Enthusiast,High-Protein,Meal Prep & Batch Cooking,Comfortable Home Cook,Indian,Quick Meals,Health & Wellness Goals
+Baking,Amateur Foodie,Gluten-Free,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Instant Pot,Comfort-Food Lover,Keto,Family-friendly,Absolute Beginner,American Fusion & Experimental,Limited Gear,Detailed Guidance
+Roasting,Budget-Conscious Cook,Dairy-Free,Large Groups/Parties,Comfortable Home Cook,Traditional/Authentic,Locally Available,Occasion-Based Cooking
+Minimal/No-Cook,Adventure Seeker,Paleo,Individual,Absolute Beginner,Mediterranean,Pantry Staples,Taste-Driven
+Grilling,Health Enthusiast,Low-Sodium,Couple/Date Night,Culinary Expert,Mexican,Seasonal Ingredients,Eco & Ethical Considerations
+Quick & Easy,Busy Parent,Halal,Family-friendly,Comfortable Home Cook,Middle Eastern,Quick Meals,Quick Summaries
+Slow Cooker,College Student,Vegetarian,Meal Prep & Batch Cooking,Absolute Beginner,Chinese,Limited Gear,Budget-Conscious
+Sautéing,Amateur Foodie,Nut-Free,Individual,Culinary Expert,Korean,Fully Equipped Kitchen,Taste-Driven
+Gourmet & Intricate,Comfort-Food Lover,Gluten-Free,Couple/Date Night,Comfortable Home Cook,Italian,Leisurely Cooking,Splurge-Worthy
+Steaming,Budget-Conscious Cook,Low-Sugar,Large Groups/Parties,Absolute Beginner,Thai,Locally Available,Health & Wellness Goals
+Roasting,Adventure Seeker,Seafood-Free,Family-friendly,Culinary Expert,Fusion & Experimental,Seasonal Ingredients,Occasion-Based Cooking
+Air Fryer,Health Enthusiast,Calorie-Conscious,Individual,Comfortable Home Cook,Japanese,Quick Meals,Quick Summaries
+Baking,Busy Parent,Vegan,Family-friendly,Absolute Beginner,Mediterranean,Pantry Staples,Interactive Guidance
+Instant Pot,College Student,Dairy-Free,Meal Prep & Batch Cooking,Comfortable Home Cook,Mexican,Limited Gear,Budget-Conscious
+Sous-vide,Amateur Foodie,High-Protein,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Everyday Cooking,Comfort-Food Lover,Gluten-Free,Individual,Absolute Beginner,Indian,Locally Available,Taste-Driven
+Quick & Easy,Budget-Conscious Cook,Egg-Free,Family-friendly,Comfortable Home Cook,Chinese,Quick Meals,Eco & Ethical Considerations
+Steaming,Adventure Seeker,Diabetic-Friendly,Large Groups/Parties,Culinary Expert,Traditional/Authentic,Seasonal Ingredients,Occasion-Based Cooking
+Grilling,Health Enthusiast,Nut-Free,Couple/Date Night,Absolute Beginner,Korean,Limited Gear,Health & Wellness Goals
+Slow Cooker,Busy Parent,Paleo,Meal Prep & Batch Cooking,Comfortable Home Cook,Mexican,Pantry Staples,Detailed Guidance
+Minimal/No-Cook,College Student,Low-Sodium,Individual,Culinary Expert,Mediterranean,Quick Meals,Taste-Driven
+Roasting,Amateur Foodie,Halal,Family-friendly,Comfortable Home Cook,Middle Eastern,Locally Available,Occasion-Based Cooking
+Baking,Comfort-Food Lover,Vegetarian,Large Groups/Parties,Absolute Beginner,Italian,Seasonal Ingredients,Eco & Ethical Considerations
+Air Fryer,Budget-Conscious Cook,Vegan,Individual,Comfortable Home Cook,Indian,Limited Gear,Budget-Conscious
+Everyday Cooking,Adventure Seeker,Dairy-Free,Couple/Date Night,Culinary Expert,Fusion & Experimental,Fully Equipped Kitchen,Splurge-Worthy
+Instant Pot,Health Enthusiast,Low-Sugar,Family-friendly,Absolute Beginner,Japanese,Quick Meals,Quick Summaries
+Sautéing,Busy Parent,High-Protein,Meal Prep & Batch Cooking,Comfortable Home Cook,French,Locally Available,Health & Wellness Goals
+Gourmet & Intricate,College Student,Gluten-Free,Individual,Culinary Expert,Mexican,Leisurely Cooking,Taste-Driven
+Quick & Easy,Amateur Foodie,Nut-Free,Couple/Date Night,Comfortable Home Cook,Korean,Seasonal Ingredients,Splurge-Worthy
+Steaming,Comfort-Food Lover,Kosher,Family-friendly,Absolute Beginner,Thai,Quick Meals,Splurge-Worthy
+Slow Cooker,Budget-Conscious Cook,Egg-Free,Large Groups/Parties,Comfortable Home Cook,Traditional/Authentic,Pantry Staples,Occasion-Based Cooking
+Grilling,Adventure Seeker,Dairy-Free,Individual,Culinary Expert,Mediterranean,Limited Gear,Eco & Ethical Considerations
+Baking,Health Enthusiast,Paleo,Family-friendly,Comfortable Home Cook,Japanese,Locally Available,Health & Wellness Goals
+Air Fryer,Busy Parent,Diabetic-Friendly,Meal Prep & Batch Cooking,Absolute Beginner,Mexican,Quick Meals,Quick Summaries
+Roasting,College Student,Low-Sodium,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Sous-vide,Amateur Foodie,Halal,Large Groups/Parties,Comfortable Home Cook,Indian,Seasonal Ingredients,Occasion-Based Cooking
+Everyday Cooking,Comfort-Food Lover,Vegetarian,Individual,Absolute Beginner,Italian,Limited Gear,Budget-Conscious
+Quick & Easy,Budget-Conscious Cook,Nut-Free,Family-friendly,Comfortable Home Cook,Chinese,Pantry Staples,Interactive Guidance
+Steaming,Adventure Seeker,Vegan,Large Groups/Parties,Culinary Expert,Middle Eastern,Locally Available,Taste-Driven
+Slow Cooker,Health Enthusiast,High-Protein,Meal Prep & Batch Cooking,Absolute Beginner,Korean,Quick Meals,Health & Wellness Goals
+Sautéing,Busy Parent,Gluten-Free,Couple/Date Night,Comfortable Home Cook,Fusion & Experimental,Fully Equipped Kitchen,Splurge-Worthy
+Gourmet & Intricate,College Student,Dairy-Free,Individual,Culinary Expert,Mediterranean,Leisurely Cooking,Eco & Ethical Considerations
+Grilling,Amateur Foodie,Low-Sugar,Family-friendly,Absolute Beginner,Japanese,Seasonal Ingredients,Occasion-Based Cooking
+Baking,Comfort-Food Lover,Nut-Free,Large Groups/Parties,Culinary Expert,Indian,Limited Gear,Taste-Driven
+Instant Pot,Budget-Conscious Cook,Kosher,Meal Prep & Batch Cooking,Comfortable Home Cook,French,Pantry Staples,Budget-Conscious
+Minimal/No-Cook,Adventure Seeker,Paleo,Individual,Absolute Beginner,Mexican,Quick Meals,Interactive Guidance
+Roasting,Health Enthusiast,Halal,Family-friendly,Comfortable Home Cook,Middle Eastern,Locally Available,Health & Wellness Goals
+Air Fryer,Busy Parent,Vegetarian,Large Groups/Parties,Culinary Expert,Mediterranean,Seasonal Ingredients,Occasion-Based Cooking
+Everyday Cooking,College Student,Egg-Free,Individual,Absolute Beginner,Thai,Limited Gear,Budget-Conscious
+Sous-vide,Amateur Foodie,Diabetic-Friendly,Couple/Date Night,Comfortable Home Cook,Italian,Fully Equipped Kitchen,Splurge-Worthy
+Quick & Easy,Comfort-Food Lover,Low-Sodium,Family-friendly,Culinary Expert,Chinese,Pantry Staples,Quick Summaries
+Steaming,Budget-Conscious Cook,Vegan,Large Groups/Parties,Absolute Beginner,Japanese,Locally Available,Eco & Ethical Considerations
+Grilling,Adventure Seeker,Dairy-Free,Meal Prep & Batch Cooking,Comfortable Home Cook,Mexican,Quick Meals,Taste-Driven
+Slow Cooker,Health Enthusiast,High-Protein,Individual,Culinary Expert,Indian,Seasonal Ingredients,Health & Wellness Goals
+Sautéing,Busy Parent,Gluten-Free,Family-friendly,Absolute Beginner,French,Limited Gear,Budget-Conscious
+Gourmet & Intricate,College Student,Nut-Free,Couple/Date Night,Comfortable Home Cook,Middle Eastern,Fully Equipped Kitchen,Splurge-Worthy
+Baking,Amateur Foodie,Kosher,Large Groups/Parties,Culinary Expert,Traditional/Authentic,Pantry Staples,Occasion-Based Cooking
+Instant Pot,Comfort-Food Lover,Vegetarian,Meal Prep & Batch Cooking,Absolute Beginner,Korean,Quick Meals,Interactive Guidance
+Roasting,Budget-Conscious Cook,Low-Sugar,Individual,Comfortable Home Cook,Japanese,Locally Available,Health & Wellness Goals
+Air Fryer,Adventure Seeker,Seafood-Free,Family-friendly,Culinary Expert,Mediterranean,Seasonal Ingredients,Taste-Driven
+Everyday Cooking,Health Enthusiast,Egg-Free,Large Groups/Parties,Absolute Beginner,Italian,Limited Gear,Eco & Ethical Considerations
+Minimal/No-Cook,Busy Parent,Paleo,Individual,Comfortable Home Cook,Mexican,Quick Meals,Budget-Conscious
+Grilling,College Student,Dairy-Free,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Steaming,Amateur Foodie,Halal,Family-friendly,Absolute Beginner,Middle Eastern,Pantry Staples,Occasion-Based Cooking
+Slow Cooker,Comfort-Food Lover,Vegan,Large Groups/Parties,Comfortable Home Cook,Indian,Locally Available,Health & Wellness Goals
+Sautéing,Budget-Conscious Cook,Low-Sodium,Individual,Culinary Expert,Chinese,Seasonal Ingredients,Quick Summaries
+Gourmet & Intricate,Adventure Seeker,Kosher,Meal Prep & Batch Cooking,Absolute Beginner,Japanese,Limited Gear,Detailed Guidance
+Baking,Health Enthusiast,Nut-Free,Couple/Date Night,Comfortable Home Cook,Mediterranean,Locally Available,Taste-Driven
+Instant Pot,Busy Parent,Vegetarian,Family-friendly,Culinary Expert,Fusion & Experimental,Quick Meals,Occasion-Based Cooking
+Roasting,College Student,Gluten-Free,Large Groups/Parties,Absolute Beginner,Indian,Pantry Staples,Eco & Ethical Considerations
+Air Fryer,Amateur Foodie,Keto,Individual,Comfortable Home Cook,French,Seasonal Ingredients,Splurge-Worthy
+Everyday Cooking,Comfort-Food Lover,Halal,Couple/Date Night,Culinary Expert,Middle Eastern,Fully Equipped Kitchen,Taste-Driven
+Quick & Easy,Budget-Conscious Cook,Low-Sugar,Family-friendly,Absolute Beginner,Italian,Limited Gear,Health & Wellness Goals
+Steaming,Adventure Seeker,Nut-Free,Meal Prep & Batch Cooking,Comfortable Home Cook,Japanese,Locally Available,Interactive Guidance
+Grilling,Health Enthusiast,Vegan,Individual,Culinary Expert,Mediterranean,Seasonal Ingredients,Eco & Ethical Considerations
+Slow Cooker,Busy Parent,Gluten-Free,Large Groups/Parties,Comfortable Home Cook,Mexican,Pantry Staples,Budget-Conscious
+Sautéing,College Student,Halal,Family-friendly,Absolute Beginner,Korean,Quick Meals,Health & Wellness Goals
+Gourmet & Intricate,Amateur Foodie,Diabetic-Friendly,Couple/Date Night,Culinary Expert,French,Fully Equipped Kitchen,Splurge-Worthy
+Baking,Comfort-Food Lover,Egg-Free,Individual,Comfortable Home Cook,Middle Eastern,Seasonal Ingredients,Occasion-Based Cooking
+Roasting,Budget-Conscious Cook,Vegetarian,Family-friendly,Absolute Beginner,Thai,Limited Gear,Taste-Driven
+Air Fryer,Adventure Seeker,Nut-Free,Meal Prep & Batch Cooking,Culinary Expert,Mexican,Locally Available,Health & Wellness Goals
+Steaming,College Student,Vegetarian,Individual,Culinary Expert,Mediterranean,Quick Meals,Occasion-Based Cooking

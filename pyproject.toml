@@ -9,6 +9,7 @@ dependencies = [
     "httpx",
     "rich",
     "pandas",
+    "weave>=0.51.48",
 ]
 
 [tool.uv]

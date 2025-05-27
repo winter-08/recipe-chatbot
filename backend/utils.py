@@ -1,4 +1,5 @@
 from __future__ import annotations
+import weave
 
 """Utility helpers for the recipe chatbot backend.
 
@@ -112,6 +113,7 @@ def build_system_prompt(user_info: Dict[str, Any]) -> str:
     data = {**defaults, **user_info}
     return SYSTEM_PROMPT_TMPL.format(**data)
 
+
 # Fetch configuration *after* we loaded the .env file.
 MODEL_NAME: Final[str] = (
     Path.cwd().with_suffix("")  # noqa: WPS432  # dummy call to satisfy linters about unused Path
@@ -124,6 +126,7 @@ MODEL_NAME: Final[str] = (
 # --- Agent wrapper ---------------------------------------------------------------
 
 
+@weave.op()
 def get_agent_response(
     messages: List[Dict[str, str]], user_info: Dict[str, Any]
 ) -> List[Dict[str, str]]:  # noqa: WPS231
@@ -165,3 +168,6 @@ def get_agent_response(
         {"role": "assistant", "content": assistant_reply_content}
     ]
     return updated_messages
+
+
+weave.init("recipe-chatbot")
