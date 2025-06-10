@@ -9,6 +9,9 @@ dependencies = [
     "httpx",
     "rich",
     "pandas",
+    "arize-phoenix",
+    "openai",
+    "openinference-instrumentation-openai",
 ]
 
 [tool.uv]
