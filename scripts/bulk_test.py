@@ -35,8 +35,6 @@ RESULTS_DIR: Path = Path("results")
 RESULTS_DIR.mkdir(exist_ok=True)
 
 MAX_WORKERS = 32 # For ThreadPoolExecutor
-
-
 # -----------------------------------------------------------------------------
 # Core logic
 # -----------------------------------------------------------------------------
@@ -63,7 +61,7 @@ def process_query_sync(
 
 
 # Renamed and made sync
-def run_bulk_test(csv_path: Path) -> None:
+def run_bulk_test(csv_path: Path, num_workers: int = MAX_WORKERS) -> None:
     """Main entry point for bulk testing (synchronous version)."""
 
     with csv_path.open("r", newline="", encoding="utf-8") as csv_file:
@@ -161,5 +159,6 @@ if __name__ == "__main__":
         default=DEFAULT_CSV,
         help="Path to CSV file containing queries (column name: 'query').",
     )
+    parser.add_argument("--workers", type=int, default=MAX_WORKERS, help=f"Number of worker threads (default: {MAX_WORKERS}).")
     args = parser.parse_args()
-    run_bulk_test(args.csv)
+    run_bulk_test(args.csv, args.workers)
