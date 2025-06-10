@@ -6,7 +6,7 @@ This module centralises the system prompt, environment loading, and the
 wrapper around litellm so the rest of the application stays decluttered.
 """
 
-from pathlib import Path
+import os
 from typing import Final, List, Dict
 import datetime as dt
 
